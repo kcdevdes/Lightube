@@ -1,0 +1,14 @@
+{
+  "name": "lightube",
+  "version": "0.1.0",
+  "description": "\"Sample\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Choi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
